@@ -12,3 +12,5 @@ Authentication system using Django Rest Framework for the backend and Next JS fo
 
 
 ## FrontEnd Next JS
+- npm install
+- npm run dev
