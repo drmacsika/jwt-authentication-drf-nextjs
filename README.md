@@ -3,6 +3,7 @@ Authentication system using Django Rest Framework for the backend and Next JS fo
 
 ## Backend DRF
 - python -m venv venv
+- source venv/bin/activate
 - cd backend/src
 - pip install -r requirements.txt
 - python manage.py makemigrations
